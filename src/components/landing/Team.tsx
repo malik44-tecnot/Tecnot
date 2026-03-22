@@ -5,21 +5,21 @@ const Team = () => {
     {
       name: 'Ibrahim Sharaff',
       role: 'Project Lead & AI/ML Lead',
-      image: '/images/ibrahim.jpg',
+      image: '/images/ibrahim.jpeg',
       linkedin: '#',
       github: '#'
     },
     {
       name: 'Shiman Nafaas',
       role: 'Project Co-Lead & Front-End Lead',
-      image: '/images/shiman.jpg',
+      image: '/images/shiman.jpeg',
       linkedin: '#',
       github: '#'
     },
     {
       name: 'Malik Hanaffi',
       role: 'Front-End Developer',
-      image: '/images/malik.jpeg',
+      image: 'public/images/malik.jpeg',
       linkedin: '#',
       github: '#'
     },
@@ -33,14 +33,14 @@ const Team = () => {
     {
       name: 'Alfred Prajith',
       role: 'Back-End Lead',
-      image: '/images/Prajith.jpeg',
+      image: '/images/alfred.jpg',
       linkedin: '#',
       github: '#'
     },
     {
       name: 'Sanuka Nesara',
       role: 'Back-End Developer',
-      image: '/images/Sanuka.jpeg',
+      image: '/images/sanuka.jpeg',
       linkedin: '#',
       github: '#'
     }
