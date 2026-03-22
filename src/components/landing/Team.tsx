@@ -6,42 +6,42 @@ const Team = () => {
       name: 'Ibrahim Sharaff',
       role: 'Project Lead & AI/ML Lead',
       image: '/images/ibrahim.jpeg',
-      linkedin: '#',
+      linkedin: "https://www.linkedin.com/in/ibrahimsharaff/",
       github: '#'
     },
     {
       name: 'Shiman Nafaas',
-      role: 'Front-End Lead Developer',
+      role: 'Front-End Developer',
       image: '/images/shiman.jpeg',
-      linkedin: '#',
+      linkedin: "https://www.linkedin.com/in/shiman-nafaas-953037296/",
       github: '#'
     },
     {
       name: 'Malik Hanaffi',
       role: 'Front-End Developer',
       image: '/images/malik.jpeg',
-      linkedin: '#',
+      linkedin: "https://www.linkedin.com/in/abdul-malik-hanaffi-580550268/",
       github: '#'
     },
     {
       name: 'Akiff Ahamed',
       role: 'AI/ML Developer',
       image: '/images/akiff.jpeg',
-      linkedin: '#',
+      linkedin: "https://www.linkedin.com/in/akiffahamed/",
       github: '#'
     },
     {
       name: 'Alfred Prajith',
       role: 'Back-End Lead',
       image: '/images/alfred.jpeg',
-      linkedin: '#',
+      linkedin: "https://www.linkedin.com/in/alfred-prajith-43688a33a/",
       github: '#'
     },
     {
       name: 'Sanuka Nesara',
       role: 'Back-End Developer',
       image: '/images/sanuka.jpeg',
-      linkedin: '#',
+      linkedin: "https://www.linkedin.com/in/sanuka-nesara-05b89728b/",
       github: '#'
     }
   ];
