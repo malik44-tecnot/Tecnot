@@ -11,7 +11,7 @@ const Team = () => {
     },
     {
       name: 'Shiman Nafaas',
-      role: 'Project Co-Lead & Front-End Lead',
+      role: 'Front-End Lead Developer',
       image: '/images/shiman.jpeg',
       linkedin: '#',
       github: '#'
