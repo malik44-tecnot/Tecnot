@@ -19,7 +19,7 @@ const Team = () => {
     {
       name: 'Malik Hanaffi',
       role: 'Front-End Developer',
-      image: 'public/images/malik.jpeg',
+      image: '/images/malik.jpeg',
       linkedin: '#',
       github: '#'
     },
