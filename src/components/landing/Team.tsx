@@ -26,14 +26,14 @@ const Team = () => {
     {
       name: 'Akiff Ahamed',
       role: 'AI/ML Developer',
-      image: '/images/akiff.jpg',
+      image: '/images/akiff.jpeg',
       linkedin: '#',
       github: '#'
     },
     {
       name: 'Alfred Prajith',
       role: 'Back-End Lead',
-      image: '/images/alfred.jpg',
+      image: '/images/alfred.jpeg',
       linkedin: '#',
       github: '#'
     },
