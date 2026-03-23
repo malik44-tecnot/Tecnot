@@ -24,12 +24,14 @@ export default function Navbar() {
           <a href="#features">Features</a>
           <a href="#how-it-works">How It Works</a>
           <a href="#team">Meet Our Team</a>
-          <a href="#doctors">For Doctors</a>
+          <a href="https://tecnot-web-app-7q3h.vercel.app/profile">For Doctors</a>
         </div>
 
         <div className="nav-actions">
-          <a href="#login" className="nav-login">Login</a>
-          <button className="nav-cta">Get Started</button>
+  <a href="https://tecnot-web-app-7q3h.vercel.app" className="nav-login">Login</a>
+  <a href="https://tecnot-web-app-7q3h.vercel.app" className="nav-cta-link">
+    <button className="nav-cta">Get Started</button>
+  </a>
         </div>
 
         <button 
@@ -50,8 +52,8 @@ export default function Navbar() {
           <a href="#doctors" onClick={() => setIsMobileMenuOpen(false)}>For Doctors</a>
         </div>
         <div className="mobile-actions">
-          <a href="#login" className="nav-login">Login</a>
-          <button className="nav-cta">Get Started</button>
+  <a href="#login" className="nav-login">Login</a>
+  <a href="https://tecnot-web-app-7q3h.vercel.app" className="nav-cta">Get Started</a>
         </div>
       </div>
     </nav>
