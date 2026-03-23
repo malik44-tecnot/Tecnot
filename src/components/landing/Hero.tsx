@@ -38,11 +38,13 @@ export default function Hero() {
               <Zap size={20} />
               Start Free Trial
             </button>
-            <button className="btn-secondary">
-              <Play size={18} />
-              Watch Demo
-            </button>
-          </div>
+            <a href="https://youtu.be/QU5SOW3KDU0" target="_blank" rel="noopener noreferrer">
+  <button className="btn-secondary">
+    <Play size={18} />
+    Watch Demo
+  </button>
+            </a>
+      </div>
 
           <motion.div 
             className="stats-bar"
